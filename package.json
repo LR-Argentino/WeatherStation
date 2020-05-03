@@ -1,0 +1,19 @@
+{
+  "name": "weatherstation",
+  "version": "1.0.0",
+  "description": "Das prProgramm realisiert eine Wetterstation, die f�r jede Viertelstunde eines Tages einen Messwert speichert und die MEessungen auswertet.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "weatherstation"
+  },
+  "keywords": [
+    "c#",
+    "UnitTests"
+  ],
+  "author": "Luca Argentino",
+  "license": "MIT"
+}
